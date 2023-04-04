@@ -7,7 +7,11 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
+<<<<<<< HEAD
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br |
+=======
+|Rafaela Soares Pereira|Gerente de Projeto|rafaela.soares@ifro.edu.br|
+>>>>>>> 56da44308323421b72790276661e0b2bca700658
 
 # Sumário
 

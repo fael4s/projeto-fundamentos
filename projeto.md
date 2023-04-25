@@ -1,17 +1,13 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *IFRO POST*
+# *IF posting*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-<<<<<<< HEAD
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br |
-=======
 |Rafaela Soares Pereira|Gerente de Projeto|rafaela.soares@ifro.edu.br|
->>>>>>> 56da44308323421b72790276661e0b2bca700658
 
 # Sumário
 
@@ -45,33 +41,25 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | IF posting|
+| GERENTE DO PROJETO | Rafaela Soares Pereira|
+| PRINCIPAL OBJETIVO | Auxiliar o desempenho academico e comunicativo de alunos, ex-alunos e futuros alunos dos IF's. |
+| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Melhor comunicação de alunos ao redor do Brasil.|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#IF posting) ]
 
 # INTRODUÇÃO
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_IF posting_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
 Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
 * Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
-
+  * Discussões individuais de um representante da equipe com Wagner Ferreira, Professor de fundamentos.
 
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
@@ -90,7 +78,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
+O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os alunos dos IF's em geral. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por alunos, ex-alunos e futuros alunos da instituição de ensino.
 O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
@@ -105,10 +93,6 @@ Não fazem parte do escopo do projeto:
 |:---|:---|
 |**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
 |**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
 
 ## Abrangência e sistemas similares
 

@@ -6,7 +6,7 @@
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
-|:---|:---|:---|
+|:Max costa cardoso|:Programador|: cardoso.max@estudante.ifro.edu.br|
 
 # Sumário
 
@@ -135,8 +135,11 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 
 * Processador Dual Core 2GHz ou superior
 * 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+* acesso a internet
+
+Os usuários devem utilizar um celular com a seguinte configuração mínima:
+*Android 7.0
+
 
 # ESTUDO DE VIABILIDADE
 
@@ -171,8 +174,26 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |criar Login | página separadadedicadaa criação do login|
+|RF-002 |trocar senha | página dedicada a troca de senha caso o usuário esqueça |
+|RF-003 |adicionar postagem| componente para adcionar pstagem |
+|RF-004 |alternar entre câmera e a galeria do dispositivo |subfunção dedicada a escolha do usuário entre fazer uma postagem cm a câmera do dispositivo ou a galeria |
+|RF-005 |adcionar postagem de texto |  dedicada a escolha do usuário em fazer uma postagem de texto |
+|RF-006 |alterar foto de perfil | componente dedicado a alterar a foto de perfil |
+|RF-007 |alterar nome | componente pra mudar o nome do perfil |
+|RF-008 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-009 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-010 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-011 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-012 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-013|Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-014 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-0015|Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-016 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-017 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-018 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-019 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-020 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
 
 
 ## Requisitos Não Funcionais

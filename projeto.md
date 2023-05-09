@@ -7,7 +7,6 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Rafaela Soares Pereira|Gerente de Projeto|rafaela.soares@ifro.edu.br|
 
 # Sumário
 

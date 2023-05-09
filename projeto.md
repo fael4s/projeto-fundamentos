@@ -180,10 +180,10 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-004 |alternar entre câmera e a galeria do dispositivo |subfunção dedicada a escolha do usuário entre fazer uma postagem cm a câmera do dispositivo ou a galeria |
 |RF-005 |adcionar postagem de texto |  dedicada a escolha do usuário em fazer uma postagem de texto |
 |RF-006 |alterar foto de perfil | componente dedicado a alterar a foto de perfil |
-|RF-007 |alterar nome | componente pra mudar o nome do perfil |
-|RF-008 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-009 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-010 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-007 |alterar nome | componente para mudar o nome do perfil |
+|RF-008 |adcionar amigos |componente focado em adcionar amigos |
+|RF-009 |chat de conversa| chat de conversa |
+|RF-010 | fazer comentários de postagem| componente focado em adcionar comentários |
 |RF-011 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
 |RF-012 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
 |RF-013|Nome do Requisito | Descreva aqui as informações sobre o requisito |

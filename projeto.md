@@ -201,8 +201,17 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 | Desepenho|especificações relacionadas ao tempo de resposta, capacidade de processamento, uso de recursos (memória, armazenamento) e escalabilidade do sistema. |
+|RNF-002 |Usabilidade |requisitos relacionados à facilidade de uso, interface do usuário, experiência do usuário, acessibilidade e documentação. |
+|RNF-003 |Segurança |requisitos relacionados à proteção de dados, autenticação, autorização, criptografia e controle de acesso. |
+|RNF-004 |Confiabilidade |especificações relacionadas à disponibilidade do sistema, tolerância a falhas, recuperação de erros e manutenção. |
+|RNF-005 |Compatibilidade |requisitos relacionados à interoperabilidade do sistema com outras plataformas, sistemas operacionais, navegadores, dispositivos, etc.|
+|RNF-006 |Manutenibilidade|requisitos relacionados à facilidade de manutenção, extensibilidade, modularidade e documentação do código. |
+|RNF-007 | Legal e regulamentar |requisitos relacionados a conformidade com leis, regulamentos e padrões governamentais. |
+|RNF-008 |Escalabilidade |O sistema deve ser capaz de lidar com um aumento significativo no número de usuários, postagens e interações, mantendo um desempenho adequado e uma experiência do usuário satisfatória. Isso significa que o sistema deve ser dimensionável e capaz de lidar com o crescimento do volume de dados e do tráfego de usuários. |
+|RNF-009 |Acessibilidade |O sistema deve ser projetado e desenvolvido levando em consideração a acessibilidade para pessoas com deficiências, garantindo que todos os usuários possam utilizar as funcionalidades oferecidas. Isso inclui recursos como suporte a leitores de tela, teclado para navegação, contraste adequado nas cores, entre outros aspectos que tornam o sistema acessível a todos os usuários. |O sistema deve ser projetado e desenvolvido levando em consideração a acessibilidade para pessoas com deficiências, garantindo que todos os usuários possam utilizar as funcionalidades oferecidas. Isso inclui recursos como suporte a leitores de tela, teclado para navegação, contraste adequado nas cores, entre outros aspectos que tornam o sistema acessível a todos os usuários.|
+|RNF-010 |Privacidade de dados|O sistema deve garantir a proteção dos dados pessoais dos usuários, implementando medidas de segurança adequadas para evitar acesso não autorizado, divulgação ou manipulação das informações armazenadas. Isso envolve a conformidade com regulamentos de privacidade, como a Lei Geral de Proteção de Dados (LGPD) no Brasil ou o Regulamento Geral de Proteção de Dados (GDPR) na União Europeia.|
+
 
 
 [ [INÍCIO](#fibonacci-management-system) ]

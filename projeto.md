@@ -7,6 +7,7 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:Max costa cardoso|:Programador|: cardoso.max@estudante.ifro.edu.br|
+|:Sebastião Regino Cezario Neto|:Programador|:sebasskins@hotmail.com|
 
 # Sumário
 
@@ -174,26 +175,27 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |criar Login | página separadadedicadaa criação do login|
-|RF-002 |trocar senha | página dedicada a troca de senha caso o usuário esqueça |
-|RF-003 |adicionar postagem| componente para adcionar pstagem |
-|RF-004 |alternar entre câmera e a galeria do dispositivo |subfunção dedicada a escolha do usuário entre fazer uma postagem cm a câmera do dispositivo ou a galeria |
-|RF-005 |adcionar postagem de texto |  dedicada a escolha do usuário em fazer uma postagem de texto |
-|RF-006 |alterar foto de perfil | componente dedicado a alterar a foto de perfil |
-|RF-007 |alterar nome | componente para mudar o nome do perfil |
-|RF-008 |adcionar amigos |componente focado em adcionar amigos |
-|RF-009 |chat de conversa| chat de conversa |
-|RF-010 | fazer comentários de postagem| componente focado em adcionar comentários |
-|RF-011 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-012 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-013|Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-014 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-0015|Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-016 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-017 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-018 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-019 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-020 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-001|Fazer Login|Página separada dedicada a criação do login|
+|RF-002|Fazer cadastro|Página dedicada a criação de conta|
+|RF-003|Trocar senha|Página dedicada a troca de senha caso o usuário esqueça|
+|RF-004|Adicionar postagem|Componente para adcionar pstagem|
+|RF-005|Alternar entre câmera e a galeria do dispositivo|Subfunção dedicada a escolha do usuário entre fazer uma postagem cm a câmera do dispositivo ou a galeria|
+|RF-006|Adcionar postagem de texto|Componente dedicado a escolha do usuário em fazer uma postagem de texto|
+|RF-007|Alterar foto de perfil|Componente dedicado a alterar a foto de perfil|
+|RF-008|Alterar nome|Componente para mudar o nome do perfil|
+|RF-009|Adcionar amigos|Componente focado em adcionar amigos|
+|RF-010|Conversar com amigos|Chat de conversa|
+|RF-011|Fazer comentários de postagem|Componente focado em adcionar comentários|
+|RF-012|Observar notícias dos outros campus|Componente que ficará no canto direito da tela mostrando as principais notícias dos outros campus|
+|RF-013|Observar postagens de outros alunos|Comoponente que ficará na maior parte da página, mostrando as postagens dos alunos|
+|RF-013|Botões mobile|Conjunto de botões e funções disponíveis apenas para mobile|
+|RF-014|Definir preferências de postagens|Página focada em criar filtros para o tipo de conteúdo que o usuário gostaria de consumir|
+|RF-015|Bloquear usuários|Componente para bloquear usuários e/ou amigos que o usuário não gostaria de receber postagens ou conversas|
+|RF-016|Notificar usuário|Componente para notificações de postagens de usuários aos quais o usuário esteja seguindo|
+|RF-017|Seguir usuário e/ou campus|Componente para seguir outros usuários ou campus|
+|RF-018|Denunciar abuso|Botão para denunciar abusos ocorridos em conversas, ou postagens|
+|RF-019|Tornar conta privada|Botão para tornar sua conta privada|
+|RF-020|Tornar conta fantasma|Botão para tornar sua conta como conta fantasma|
 
 
 ## Requisitos Não Funcionais
@@ -201,16 +203,16 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 | Desepenho|especificações relacionadas ao tempo de resposta, capacidade de processamento, uso de recursos (memória, armazenamento) e escalabilidade do sistema. |
-|RNF-002 |Usabilidade |requisitos relacionados à facilidade de uso, interface do usuário, experiência do usuário, acessibilidade e documentação. |
-|RNF-003 |Segurança |requisitos relacionados à proteção de dados, autenticação, autorização, criptografia e controle de acesso. |
-|RNF-004 |Confiabilidade |especificações relacionadas à disponibilidade do sistema, tolerância a falhas, recuperação de erros e manutenção. |
-|RNF-005 |Compatibilidade |requisitos relacionados à interoperabilidade do sistema com outras plataformas, sistemas operacionais, navegadores, dispositivos, etc.|
-|RNF-006 |Manutenibilidade|requisitos relacionados à facilidade de manutenção, extensibilidade, modularidade e documentação do código. |
-|RNF-007 | Legal e regulamentar |requisitos relacionados a conformidade com leis, regulamentos e padrões governamentais. |
-|RNF-008 |Escalabilidade |O sistema deve ser capaz de lidar com um aumento significativo no número de usuários, postagens e interações, mantendo um desempenho adequado e uma experiência do usuário satisfatória. Isso significa que o sistema deve ser dimensionável e capaz de lidar com o crescimento do volume de dados e do tráfego de usuários. |
-|RNF-009 |Acessibilidade |O sistema deve ser projetado e desenvolvido levando em consideração a acessibilidade para pessoas com deficiências, garantindo que todos os usuários possam utilizar as funcionalidades oferecidas. Isso inclui recursos como suporte a leitores de tela, teclado para navegação, contraste adequado nas cores, entre outros aspectos que tornam o sistema acessível a todos os usuários. |O sistema deve ser projetado e desenvolvido levando em consideração a acessibilidade para pessoas com deficiências, garantindo que todos os usuários possam utilizar as funcionalidades oferecidas. Isso inclui recursos como suporte a leitores de tela, teclado para navegação, contraste adequado nas cores, entre outros aspectos que tornam o sistema acessível a todos os usuários.|
-|RNF-010 |Privacidade de dados|O sistema deve garantir a proteção dos dados pessoais dos usuários, implementando medidas de segurança adequadas para evitar acesso não autorizado, divulgação ou manipulação das informações armazenadas. Isso envolve a conformidade com regulamentos de privacidade, como a Lei Geral de Proteção de Dados (LGPD) no Brasil ou o Regulamento Geral de Proteção de Dados (GDPR) na União Europeia.|
+|RNF-001|Desepenho|especificações relacionadas ao tempo de resposta, capacidade de processamento, uso de recursos (memória, armazenamento) e escalabilidade do sistema.|
+|RNF-002|Usabilidade|requisitos relacionados à facilidade de uso, interface do usuário, experiência do usuário, acessibilidade e documentação.|
+|RNF-003|Segurança|requisitos relacionados à proteção de dados, autenticação, autorização, criptografia e controle de acesso.|
+|RNF-004|Confiabilidade|especificações relacionadas à disponibilidade do sistema, tolerância a falhas, recuperação de erros e manutenção.|
+|RNF-005|Compatibilidade|requisitos relacionados à interoperabilidade do sistema com outras plataformas, sistemas operacionais, navegadores, dispositivos, etc.|
+|RNF-006|Manutenibilidade|requisitos relacionados à facilidade de manutenção, extensibilidade, modularidade e documentação do código.|
+|RNF-007|Legal e regulamentar|requisitos relacionados a conformidade com leis, regulamentos e padrões governamentais.|
+|RNF-008|Escalabilidade|O sistema deve ser capaz de lidar com um aumento significativo no número de usuários, postagens e interações, mantendo um desempenho adequado e uma experiência do usuário satisfatória. Isso significa que o sistema deve ser dimensionável e capaz de lidar com o crescimento do volume de dados e do tráfego de usuários.|
+|RNF-009|Acessibilidade|O sistema deve ser projetado e desenvolvido levando em consideração a acessibilidade para pessoas com deficiências, garantindo que todos os usuários possam utilizar as funcionalidades oferecidas. Isso inclui recursos como suporte a leitores de tela, teclado para navegação, contraste adequado nas cores, entre outros aspectos que tornam o sistema acessível a todos os usuários.
+|RNF-010|Responsividade|O sistema deve ser responsivo, podendo ser acessado por usuários tanto do computador, quanto do celular e/ou demais dispositivos|
 
 
 

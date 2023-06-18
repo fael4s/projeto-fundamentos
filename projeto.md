@@ -58,17 +58,12 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 ## CONCEPÇÃO DO SISTEMA
 
 Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
   * Discussões individuais de um representante da equipe com Wagner Ferreira, Professor de fundamentos.
 
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
 
-Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
-
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos. Tentamos ultilizar uma linguagem de facil compreensão
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -98,40 +93,33 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
-
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
-
-Das ferramentas de planejamento podemos citar:
-
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
-
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
-
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
-
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+O sistema terá ferramentas para a construção de uma comunidade acadêmica amigável e unida, na qual todos terão espaço para expressar opiniões, compartilhar interesses, relatar experiências cotidianas e, o mais importante, familiarizar-se com os Institutos Federais (IFs).
 
 ### Sistemas similares:
 
 No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No cenário nacional encontram-se quatro sistemas que se destacam:
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**Sistema Acadêmico Integrado (SAI)**: É uma plataforma adotada por diversas instituições de ensino superior no Brasil, que oferece ferramentas de interação e comunicação entre estudantes, professores e funcionários. O SAI permite o compartilhamento de informações acadêmicas, notícias, eventos e fóruns de discussão.
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+**Rede Acadêmica Federada (RNP)**:bÉ uma infraestrutura nacional que interliga instituições de pesquisa e educação, possibilitando a colaboração e o compartilhamento de recursos. Além disso, a RNP oferece serviços de comunicação e colaboração entre os membros da rede, promovendo a troca de informações e o fortalecimento da comunidade acadêmica.
+
+**Ambiente Virtual de Aprendizagem (AVA)**: Esses sistemas são adotados por várias instituições de ensino para oferecer suporte às atividades de ensino e aprendizagem online. Eles fornecem espaços para postagem de conteúdos, interação entre estudantes e professores, fóruns de discussão, entrega de tarefas, entre outras funcionalidades.
+
+**Plataforma de Gestão Educacional**: São sistemas abrangentes que englobam não apenas a interação entre os membros da comunidade acadêmica, mas também a gestão administrativa e pedagógica da instituição. Essas plataformas oferecem recursos para comunicação, gerenciamento de turmas, controle de notas, agendamento de aulas, entre outros aspectos relacionados à vida acadêmica.
 
 No cenário internacional os sistemas de maior porte são:
 
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
+**Edmodo**: Uma plataforma educacional global que conecta estudantes, professores e pais, oferecendo recursos para colaboração, compartilhamento de recursos e interação.
 
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
+**Moodle**: Um sistema de gerenciamento de aprendizado de código aberto que permite a criação de comunidades de aprendizado online. Oferece ferramentas para discussões, compartilhamento de arquivos, avaliações e interações entre os participantes.
 
-## Suposições e dependências
-O sistema necessita de um servidor web para sua hospedagem.
+**Canvas** Uma plataforma de aprendizado online amplamente utilizada em instituições educacionais em todo o mundo. Ela permite a criação de comunidades de aprendizado virtuais, oferecendo recursos para comunicação, colaboração e compartilhamento de conteúdo.
 
+**Blackboard** Outra plataforma popular de aprendizado online que possibilita a criação de comunidades acadêmicas interativas. Oferece recursos como fóruns de discussão, blogs, mensagens instantâneas e compartilhamento de materiais didáticos.
+
+Essas plataformas internacionais se assemelham ao "IF Posting" no sentido de proporcionar uma experiência colaborativa e interativa para os membros da comunidade acadêmica, permitindo a expressão de opiniões, compartilhamento de informações e interações significativas.
 Os usuários devem utilizar um computador com a seguinte configuração mínima:
 
 * Processador Dual Core 2GHz ou superior

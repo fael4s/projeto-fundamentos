@@ -223,17 +223,17 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+### UC-01 - Cadastrar Novo Usuario
 
-|UC-01 - Cadastrar Professor|           
+|UC-01 - Cadastrar Usuario|           
 |:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
+|**Descrição/Objetivo:** Permite a inclusão de novos usuarios no Sistema|
 |**Atores: Administrador**|
 |**Pré-condições:** O usuário precisa estar cadastrado e logado|
 |**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
 |**FLUXO PRINCIPAL / BÁSICO:**|
 |1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
+|2. Os dados do usuario são inseridos|
 |3. O usuário clica em salvar|
 |4. Um novo ID é gerado |
 |5. É apresentada uma mensagem confirmando a realização do cadastro|
@@ -265,6 +265,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
+
 
 
 # REFERÊNCIAS

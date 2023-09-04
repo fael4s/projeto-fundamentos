@@ -258,7 +258,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Classes
 
-![Diagrama de classes](/img/aula033.png)
+![Diagrama de classes](/img/aula3.png)
 
 # Diagrama de Sequências
 

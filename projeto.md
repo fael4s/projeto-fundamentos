@@ -211,7 +211,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/abDzdHjydjCid03IBaRrx5/Prot%C3%B3tipo?type=design&node-id=0-1&t=tyBiLb4EgdhlQyjr-0)
 
-![Imagem do Protótipo](/img/home.png)
+![Imagem do Protótipo](/img/capturadetela.png)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 

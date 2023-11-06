@@ -262,8 +262,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-[ [INÍCIO](/img/SEGUENIA.png)
- ]
+[ [INÍCIO](/img/SEGUENIA.png)]
 
 # Diagrama de Atividades
 
